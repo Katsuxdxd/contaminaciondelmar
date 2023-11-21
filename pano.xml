@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.2" hideabout="1" id="node1" apprev="17873">
+  <input height="400" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="400" leveltilesize="510">
+    <level height="400" preload="1" predecode="1" width="400"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start tilt="0" fov="70" projection="4" pan="0"/>
+    <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+    <min tilt="-90" fovpixel="2" pan="0"/>
+    <max tilt="90" fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360"/>
+  </view>
+  <userdata copyright="" comment="" longitude="" title="" info="" tags="" author="" customnodeid="" source="" latitude="" nodeid="node1" description="" datetime=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label height="20" backgroundcolor="0xffffff" border="1" enabled="1" textalpha="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+    <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+    <hotspot skinid="ht_video_url" customimage="media/iconos-01.png" customimagewidth="50" tilt="-3.24" url="https://odysee.com/$/download/Contaminaciónproplástico1/1c6e8bf64961d125e88cb84c5baf713d959e8d3a" fov="10" title="" use3D="0" id="Point01" target="" customimageheight="50" pan="-330.92" description="" distance3D="285.751"/>
+    <hotspot skinid="ht_video_url" customimage="media/iconos-02.png" customimagewidth="50" tilt="-3.24" url="https://odysee.com/$/download/2-(1)/59937fa9dcf06b3570191e5e8780a4a8f2662aaf" fov="10" title="" use3D="0" id="Point03" target="" customimageheight="50" pan="-348.59" description="" distance3D="285.751"/>
+    <hotspot skinid="ht_video_url" customimage="media/iconos-03.png" customimagewidth="50" tilt="-3.24" url="https://odysee.com/$/download/3a/dbd08e1a6aafe4251a1d59e4d485c4c19d256754" fov="10" title="" use3D="0" id="Point04" target="" customimageheight="50" pan="-8.34" description="" distance3D="285.751"/>
+    <hotspot skinid="ht_video_url" customimage="media/iconos-04.png" customimagewidth="50" tilt="-3.24" url="https://odysee.com/$/download/4/d126a7ab68a53a44b655fb8cdd384e337e22e249" fov="10" title="" use3D="0" id="Point05" target="" customimageheight="50" pan="-26.29" description="" distance3D="285.751"/>
+  </hotspots>
+  <media>
+    <video height="1080" fov="49.300" rotz="0.000" nodechangekeep="0" pansize="10.000" id="Element01" loop="-1" roty="0.000" handcursor="1" field="90.000" width="1920" tiltsize="10.000" tilt="-5.840" startmutedmobile="0" ambientlevel="0.000" rotx="0.000" stretch="1.000" pan="-230.070" level="1.000" clickmode="1" mode="3">
+      <source url="media/360 - mar baja.mp4"/>
+    </video>
+    <video height="100" fov="48.910" rotz="0.000" nodechangekeep="0" pansize="10.000" id="Element04" loop="-1" roty="0.000" handcursor="1" field="90.000" width="100" tiltsize="10.000" tilt="-2.800" startmutedmobile="0" ambientlevel="0.000" rotx="0.000" stretch="1.010" pan="-153.730" level="1.000" clickmode="1" mode="3">
+      <source url="media/360 - plastico baja.mp4"/>
+    </video>
+    <image height="480" tilt="13.640" clickmode="0" fov="48.512" handcursor="0" rotx="0.000" id="Element03" rotz="0.000" stretch="1.000" width="867" roty="0.000" pan="-70.580">
+      <source url="media/Bolsa-basura-mar-baja.gif"/>
+    </image>
+    <image height="258" tilt="11.950" clickmode="0" fov="24.092" handcursor="0" rotx="0.000" id="Element02" rotz="0.000" stretch="1.000" width="187" roty="0.000" pan="-296.630">
+      <source url="media/botella-gif.gif"/>
+    </image>
+    <image height="257" tilt="-2.570" clickmode="0" fov="24.879" handcursor="0" rotx="0.000" id="Element05" rotz="0.000" stretch="1.000" width="257" roty="0.000" pan="-156.820">
+      <source url="media/iconos-07.png"/>
+    </image>
+    <image height="554" tilt="3.610" clickmode="0" fov="60.328" handcursor="0" rotx="0.000" id="Element06" rotz="0.000" stretch="1.000" width="2083" roty="0.000" pan="-358.190">
+      <source url="media/iconos-06.png"/>
+    </image>
+  </media>
+  <transition blendtime="1" zoomspeed="2" enabled="1" zoomfov="20" blendcolor="0x000000" softedge="0" zoomin="0" zoomout="0" zoomoutpause="1" type="crossdissolve"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control invertcontrol="1" contextprojections="0" invertwheel="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" lockedwheel="0" rubberband="0" contextfullscreen="1" dblclickfullscreen="1" speedwheel="1" sensitivity="8"/>
+</panorama>
